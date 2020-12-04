@@ -27,8 +27,8 @@ exports.conf = {
 };
 
 exports.help = {
-  name: "kekabdoux",
+  name: "kekabdou",
   category: "Miscelaneous",
   description: "abdou meter",
-  usage: "kekabdoux",
+  usage: "kekabdou",
 };
